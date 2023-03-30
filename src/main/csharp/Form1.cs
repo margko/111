@@ -12,7 +12,7 @@ namespace Tic_Tac_Toe
 {
     public partial class Form1 : Form
     {
-        bool playerTurn = true;// X Turn -> true , O Turn -> false
+        bool playerTurn = true;// X Turn -> true , O Turn -> false, lalala
         int turnCount = 0;
         int winStreak = 0; // Positive for X, Negative for O
 
