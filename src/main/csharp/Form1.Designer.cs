@@ -213,7 +213,7 @@ namespace Tic_Tac_Toe
             this.winStreakLabel.AutoSize = true;
             this.winStreakLabel.Location = new System.Drawing.Point(13, 357);
             this.winStreakLabel.Name = "winStreakLabel";
-            this.winStreakLabel.Size = new System.Drawing.Size(253, 17);
+            this.winStreakLabel.Size = new System.Drawing.Size(253, 18);
             this.winStreakLabel.TabIndex = 11;
             this.winStreakLabel.Text = "X is on a win streak of 50, click to reset";
             this.winStreakLabel.Click += new System.EventHandler(this.winStreakLabel_Click);
